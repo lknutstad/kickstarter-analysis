@@ -34,6 +34,6 @@ None. The Kickstarter dataset required little cleaning and was ready for analysi
 
 - Setting a financial fundraising goal lower than 1500 improves your likelihood of success for success.
 
-- Some limitations of the data set are the non-normalcy (right skewed) of the data when filtering by financial fundraising goal amount.  This decrease our sample size for campaigns above $1500.
+- Some limitations of the data set are the non-normalcy (right skewed) of the data when filtering by financial fundraising goal amount.  This decreased our sample size for campaigns above $1500.
 
 - Other vairables not studied are country of origin, percentage by backer, and year over year trends.
