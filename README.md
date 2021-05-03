@@ -29,7 +29,7 @@ None. The Kickstarter dataset required little cleaning and was ready for analysi
 
 ## Results
 
-- Decemeber is the worst month for launching a theater kickstarter campaign with the number of successful campaigns roughly equal to the number of failed campaigns.
+- December is the worst month for launching a theater kickstarter campaign with the number of successful campaigns roughly equal to the number of failed campaigns.
 - May is the best month for launching a theater kickstarter campaign with the number of successful campaigns roughly 2.15x the number of failed campaigns
 
 - Setting a financial fundraising goal lower than 1500 improves your likelihood of success for success.
