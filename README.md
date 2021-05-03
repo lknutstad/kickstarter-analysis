@@ -25,7 +25,7 @@ An analysis of financial fundraising goals elucidates the effects of fiscal requ
 
 ### Challenges and Difficulties Encountered
 
-None. The Kickstarter dataset required little cleaning and was ready for analysis. We were fortunate the dataset was well populated with play campaigns (~1400 plays).  Therefore we had a large enough sample size to eliminate small sampling biases. Had there been 10 plays, out analysis would likely have significant error. 
+None. The Kickstarter dataset required little cleaning and was ready for analysis. We were fortunate the dataset was well populated with play campaigns (~1400 plays).  Therefore we had a large enough sample size to eliminate small sampling biases. Had there been 10 plays, our analysis would likely have significant error. 
 
 ## Results
 
