@@ -8,9 +8,14 @@ Using data from Kickstarter an analysis will be made for Louise by visualizing t
 
 Two different analysis of play outcomes are made.  They address the temporal variable of launch date and the fiscal variable of financial goal.
 
+![Theater_Outcomes _vs_Launch](https://user-images.githubusercontent.com/16930677/116925751-76f1a680-ac0e-11eb-811a-74f874331c03.png)
+
+
 ### Analysis of Outcomes Based on Launch Date
 
 An analysis of launch date elucidates the effects of timing on the success of the campaign.
+
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/16930677/116925832-912b8480-ac0e-11eb-99e8-b9789ce812a6.png)
 
 
 ### Analysis of Outcomes Based on Goals
